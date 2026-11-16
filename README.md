@@ -1,9 +1,9 @@
-# Hi, I'm Can 👋
+# Hi, I'm Can 
 
 Electrical-Electronics Engineering student at **Özyeğin University**, double majoring in **Computer Engineering**.
 I work mostly on **digital design (RTL/FPGA)** and **embedded systems**, with some deep learning on the side.
 
-## 🔧 Projects
+## Projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -13,7 +13,7 @@ I work mostly on **digital design (RTL/FPGA)** and **embedded systems**, with so
 | [pic16-ultrasonic-radar](https://github.com/AcarBahittinCan/pic16-ultrasonic-radar) | Servo-swept ultrasonic radar with LCD, alerts and a real-time Python polar display | C (XC8), PIC16F877A, Python |
 | [music-source-separation-unet](https://github.com/AcarBahittinCan/music-source-separation-unet) | Spectrogram U-Net that splits songs into vocals/drums/bass/other, trained on MUSDB18-HQ | PyTorch |
 
-## 🛠️ Tools
+## Tools
 
 - **HDL:** Verilog, SystemVerilog
 - **FPGA:** Xilinx Vivado, Artix-7 (Basys-3)
@@ -21,6 +21,6 @@ I work mostly on **digital design (RTL/FPGA)** and **embedded systems**, with so
 - **Simulation:** Icarus Verilog, Proteus
 - **Software:** Python, PyTorch, NumPy
 
-## 📫 Contact
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/bahittin-can-acar-86453a296/)
